@@ -19,16 +19,16 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
 Hey dude☺ {}, my name is {}!
-
 I'm a group manager bot maintained by  [this person](tg://user?id={})...
-
 If you have any questions,how to use me just press /help , for available commands.
-
 You,can /donate me for better VPS, for stability.
-
 Thanks, BOT maintained by @noob_guy
 
 """
+
+
+
+
 
 
 
